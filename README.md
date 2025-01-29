@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Blayne Baker
 
-# Your Github username
+# IvoryFlower-pixle
